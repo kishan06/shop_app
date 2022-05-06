@@ -10,7 +10,7 @@ It also has the functionality of auto-logging in users who are already authentic
 
 ## Some Screenshots
 
-**Login and Sign up screen* 
+**Login and Sign up screen**
 
 ![loginscreen](https://user-images.githubusercontent.com/47714049/167132661-3952367d-07e2-455c-8090-30b483f1c50e.gif)
 
