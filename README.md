@@ -1,16 +1,32 @@
-# shop_app
+# Shop App
 
-A new Flutter project.
+This is a simple shopping application where users can log in and place an order of items they want from the shop. Users can also mark any item they like as a favorite and filter only their favorite items. 
 
-## Getting Started
+This application uses Firebase as the backend and the process of adding/removing products is done via API calls. 
+It also has the functionality of auto-logging in users who are already authenticated.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Some Screenshots
+
+**Home Screen**
+
+home screen with list of all products
+
+![home](https://user-images.githubusercontent.com/47714049/167128406-945ab721-09dc-445c-94a1-52aab7de5a5d.png)
+
+
+**Add To Cart**
+
+add to cart screen with functionality to swipe and delete any item from the cart.
+
+![Animation](https://user-images.githubusercontent.com/47714049/167128547-36ec3015-8672-449c-a1c9-660e01924f4a.gif)
+
+**Orders**
+
+![ordernow](https://user-images.githubusercontent.com/47714049/167131316-326056bc-49ab-4a4f-b192-d4f4abf1a6c5.gif)
+
+**Navigation Tab**
+
+![nav bar](https://user-images.githubusercontent.com/47714049/167131507-3e96c8b8-eb27-4412-b924-194f912f71e2.png)
